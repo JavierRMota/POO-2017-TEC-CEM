@@ -1,0 +1,5 @@
+Angeles	Programacion	100.5
+Raul	Fundamentos	80.5
+Marco	SistemasInteligentes	95.5
+Jorge	Interaccion	87.5
+Maria	Graficas	79.5

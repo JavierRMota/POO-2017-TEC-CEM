@@ -1,0 +1,12 @@
+Chocolate	amargo	toblerone	tableta	25	2	Nutella
+Palanqueta	nuez	nestle	TabletaSuave	10
+Chocolate	blanco	mm	barra	17	2	Cereza
+Chocolate	amargo	turin	tableta	12	1	Nutella
+Palanqueta	avellana	lasOllas	TabletaDura	12
+Chocolate	dulce	hersheys	pastilla	28	1	Fresa
+Chocolate	obscuro	mm	tableta	15	3	Desconocido
+Chocolate	amargo	toblerone	tableta	25	2	Nutella
+Palanqueta	nuez	nestle	TabletaSuave	10
+Palanqueta	cacahuate	sanPablo	TabletaDura	9
+Chocolate	amargo	turin	pastilla	28	3	Nutella
+Chocolate	dulce	kitkat	barra	8	2	Fresa

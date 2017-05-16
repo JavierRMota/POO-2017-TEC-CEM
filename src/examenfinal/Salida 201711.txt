@@ -1,0 +1,154 @@
+
+
+*** CHOCOLATES ***
+
+
+
+Chocolate
+Sabor: amargo
+Marca: toblerone
+Presentacion: tableta
+Costo: 29.6
+Tamanio: 2
+Relleno: Nutella
+
+
+
+Chocolate
+Sabor: blanco
+Marca: mm
+Presentacion: barra
+Costo: 23.0
+Tamanio: 2
+Relleno: Cereza
+
+
+
+Chocolate
+Sabor: amargo
+Marca: turin
+Presentacion: tableta
+Costo: 14.3
+Tamanio: 1
+Relleno: Nutella
+
+
+
+Chocolate
+Sabor: dulce
+Marca: hersheys
+Presentacion: pastilla
+Costo: 29.5
+Tamanio: 1
+Relleno: Fresa
+
+
+
+Chocolate
+Sabor: obscuro
+Marca: mm
+Presentacion: tableta
+Costo: 16.5
+Tamanio: 3
+Relleno: Sin relleno
+
+
+
+Chocolate
+Sabor: amargo
+Marca: toblerone
+Presentacion: tableta
+Costo: 29.6
+Tamanio: 2
+Relleno: Nutella
+
+
+
+Chocolate
+Sabor: amargo
+Marca: turin
+Presentacion: pastilla
+Costo: 34.9
+Tamanio: 3
+Relleno: Nutella
+
+
+
+Chocolate
+Sabor: dulce
+Marca: kitkat
+Presentacion: barra
+Costo: 11.0
+Tamanio: 2
+Relleno: Fresa
+
+
+*** PALANQUETAS ***
+
+
+
+Palanqueta
+Sabor: nuez
+Marca: nestle
+Presentacion: TabletaSuave
+Costo: 15.0
+
+
+
+Palanqueta
+Sabor: avellana
+Marca: lasOllas
+Presentacion: TabletaDura
+Costo: 18.0
+
+
+
+Palanqueta
+Sabor: nuez
+Marca: nestle
+Presentacion: TabletaSuave
+Costo: 15.0
+
+
+
+Palanqueta
+Sabor: cacahuate
+Marca: sanPablo
+Presentacion: TabletaDura
+Costo: 15.0
+
+
+*** PRUEBAS POLIMORFICAS ***
+
+
+ Costo del dulce 15.0
+
+
+ Nuevo tamanio del chocolate 2
+
+
+*** CHOCOLATE CON RELLENO DE NUTELLA MAS CARO ***
+
+
+Chocolate
+Sabor: amargo
+Marca: turin
+Presentacion: pastilla
+Costo: 34.9
+Tamanio: 3
+Relleno: Nutella
+
+
+*** CHOCOLATE CON RELLENO DE FRESA MAS CARO ***
+
+
+Chocolate
+Sabor: dulce
+Marca: hersheys
+Presentacion: pastilla
+Costo: 29.5
+Tamanio: 1
+Relleno: Fresa
+
+
+

@@ -1,0 +1,17 @@
+Angeles	5050	89.3
+Edgar	4567	94.6
+Rolando	6754	45.6
+Isaac	2356	76.5
+Mary	3458	84.5
+Adolfo	7654	23.4
+tec	9356	79.2
+Marco	9653	98.4
+JAVA	8769	99.4
+Arturo	5678	99.5
+Elena	4567	84.2
+Nora	1234	82.3
+Java	1234	68.4
+Pepe	2245	53.4
+Javier	8765	65.6
+Pilar	2323	34.5
+jaVA	4568	57.6

@@ -1,0 +1,70 @@
+
+Las ventas de Arturo Rosas son:
+Enero:      12
+Febrero:    23
+Marzo:      4
+Abril:      56
+Mayo:       78
+Junio:      45
+Julio:      34
+Agosto:     78
+Septiembre: 98
+Octubre:    15
+Noviembre:  27
+Diciembre:  67
+
+Promedio de ventas de Arturo : 44.75
+El mes de mejores ventas de Arturo es : Septiembre
+El mes de peores ventas de Arturo es : Marzo
+
+
+
+Las ventas de Marco Arellano son:
+Enero:      0
+Febrero:    0
+Marzo:      0
+Abril:      0
+Mayo:       0
+Junio:      0
+Julio:      0
+Agosto:     0
+Septiembre: 0
+Octubre:    0
+Noviembre:  0
+Diciembre:  0
+
+Ventas actualizadas de marco
+
+Las ventas de Marco Arellano son:
+Enero:      35
+Febrero:    0
+Marzo:      0
+Abril:      47
+Mayo:       0
+Junio:      10
+Julio:      95
+Agosto:     0
+Septiembre: 56
+Octubre:    36
+Noviembre:  0
+Diciembre:  46
+
+El mes de mejores ventas de Marco es : Julio
+
+
+
+Las ventas de Maricela Quintana son:
+Enero:      9
+Febrero:    32
+Marzo:      56
+Abril:      43
+Mayo:       79
+Junio:      72
+Julio:      61
+Agosto:     85
+Septiembre: 93
+Octubre:    13
+Noviembre:  47
+Diciembre:  90
+Las ventas del mes de Marzo de Maricela son : 56
+
